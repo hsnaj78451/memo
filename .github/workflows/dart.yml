@@ -1,5 +1,3 @@
-#ggg
-
 name: CI
   on:
     workflow_dispatch:
